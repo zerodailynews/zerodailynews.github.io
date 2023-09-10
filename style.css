@@ -20,7 +20,7 @@ input,select{vertical-align:middle}
     position: fixed;
     height: 100%;
     width: 100%;
-    background: #CCC;
+    background: #000;
 	overflow: hidden;
     top: 0;
     bottom: 0;
@@ -130,12 +130,12 @@ input,select{vertical-align:middle}
     margin: 2px 0 0 10px;
     font-size: 17px;
     padding: 0 10px;
-    background: #CCC;
+    background: #606060;
     font-weight: bold;
 	cursor: pointer;
 }
 .taskbarPanel.activeTab {
-	background: #FFF;
+	background: #404040;
 }
 .taskbarPanel.minimizedTab {
 	background: #AAA;	
@@ -153,7 +153,7 @@ input,select{vertical-align:middle}
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #EEE;
+	background: #606060;
 }
 #icons {
 	position: absolute;
